@@ -1,0 +1,80 @@
+body{
+    background-color:rgb(229, 239, 239);
+}
+header{
+    height: 60px;
+    background-color: #E2DAD6 ;
+    text-align: center;
+    border-radius: 20px;
+    padding: 1%;
+}
+#Menubar{
+    width: 35%;
+    height: 40px;
+    align-items:center;
+    align-content:middle;
+    vertical-align: top;
+    border-radius: 30px;
+    margin-left:370px ;
+    padding: 1%;
+    display: inline-block;
+}
+article{
+    display: inline-block;
+    float: right;
+    text-align: center;
+    margin-right: 270px;
+}
+.h1{
+    display: inline-block;
+    align-content: center;
+    background-color: #7FA1C3;
+}
+article1{
+    width: 70%;
+    height: 100px;
+    background-color: gainsboro;
+    display: inline-block;
+    float: left;
+    text-align: center;
+    align-content: center;
+    border-radius: 30px;
+    margin-left: 150px;
+}
+article2{ 
+    width: 130%;
+    height: 150px;
+    background-color:gainsboro;
+    display: inline-block;
+    float: left;
+    text-align: center;
+    align-content: center;
+    vertical-align: top;
+    margin-right: 400px;
+    border-radius:30px ;
+}
+article3{ 
+    width: 130%;
+    height: 150px;
+    background-color:gainsboro;
+    display: inline-block;
+    float: left;
+    text-align: center;
+    align-content: center;
+    vertical-align: top;
+    margin-right: 400px;
+    border-radius:30px ;
+}
+article4{ 
+    width: 130%;
+    height: 150px;
+    background-color:gainsboro;
+    display: inline-block;
+    float: left;
+    text-align: center;
+    align-content: center;
+    vertical-align: top;
+    margin-right: 400px;
+    border-radius:30px;
+}
+
